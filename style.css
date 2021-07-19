@@ -1,0 +1,16 @@
+body{
+    text-align: center;
+    background-color: aquamarine;
+        
+}
+.img2{
+    height: 300px;
+    width: 400px;    
+}
+.item{
+    height: 400px;
+    width: 500px;
+}
+#slideview{
+    text-align: center;
+}
